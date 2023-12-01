@@ -1,0 +1,5 @@
+E:/Files/stm board/TIM_TimeBase/Src/main.c:38:5:main	3
+E:/Files/stm board/TIM_TimeBase/Src/main.c:129:6:HAL_TIM_PeriodElapsedCallback	5
+E:/Files/stm board/TIM_TimeBase/Src/main.c:145:5:setTimer	1
+E:/Files/stm board/TIM_TimeBase/Src/main.c:170:13:SystemClock_Config	4
+E:/Files/stm board/TIM_TimeBase/Src/main.c:231:13:Error_Handler	1
