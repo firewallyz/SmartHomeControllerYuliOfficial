@@ -22,7 +22,7 @@ the option to switch on a light for 6 seconds, The page also allows flashing of 
 
 @note The 4 built in LEDs are used to simulate lights across a smart house.
       
-@note The features are currently spread across multiple projects. The button interrupt is in "SmartHomeController". Timer is in "TIM_TimeBase_Yuli". GUI and touch input are in TouchGFX.
+@note The features are currently spread across multiple projects. The button interrupt is in "SmartHomeController". Timer is in "TIM_TimeBase". GUI and touch input are in TouchGFX.
 
 @note The connection of the LCD reset pin to a dedicated GPIO PH7 instead of the STM32F469 NRST pin may cause residual display on LCD with applications/examples that do not require display.
 	  The LCD clear can be ensured by hardware through the boards power off/power on or by software calling the BSP_LCD_Reset() function.
@@ -47,7 +47,7 @@ Smart Home, Controller, Control System, Interrupt, Timer, GUI, Touchscreen
 @par How to use it ? 
 
 For button interrupt and Timer
- - Import project "SmartHomeController" and "TIM_TimeBase_Yuli" in STM32CubeIDE
+ - Import project "SmartHomeController" and "TIM_TimeBase" in STM32CubeIDE
  - Build project
  - Run project
 
