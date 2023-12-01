@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_FSPJ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Flash LED 4</Translation>
+      </Text>
+      <Text Id="__SingleUse_TEQL" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Flash LED 3</Translation>
+      </Text>
+      <Text Id="__SingleUse_Z4MR" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">select</Translation>
+      </Text>
+      <Text Id="__SingleUse_38KR" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">select</Translation>
+      </Text>
+      <Text Id="__SingleUse_98UW" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">select</Translation>
+      </Text>
+      <Text Id="__SingleUse_GSZ7" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">select</Translation>
+      </Text>
+      <Text Id="__SingleUse_M8QW" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Switch on LED 4 for 6 seconds</Translation>
+      </Text>
+      <Text Id="__SingleUse_8T3J" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Switch on LED 3 for 6 seconds</Translation>
+      </Text>
+      <Text Id="__SingleUse_SNHS" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">LED Timer</Translation>
+      </Text>
+      <Text Id="__SingleUse_G4S6" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">LED4:</Translation>
+      </Text>
+      <Text Id="__SingleUse_XFFP" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">LED2:</Translation>
+      </Text>
+      <Text Id="__SingleUse_H1Q8" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">LED3:</Translation>
+      </Text>
+      <Text Id="__SingleUse_JY9U" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">LED1:</Translation>
+      </Text>
+      <Text Id="__SingleUse_H4I0" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">LED1:</Translation>
+      </Text>
+      <Text Id="__SingleUse_WSD6" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">LED control</Translation>
+      </Text>
+      <Text Id="__SingleUse_1VQP" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Toggle Lights</Translation>
+      </Text>
+      <Text Id="__SingleUse_PY2H" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Light Timer</Translation>
+      </Text>
+      <Text Id="__SingleUse_V7DU" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Smart Home Controller:</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
